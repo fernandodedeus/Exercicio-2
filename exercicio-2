@@ -1,0 +1,14 @@
+ import java.util.Scanner;
+    class Main {
+            public static void main(String[] args) {
+            Scanner console = new Scanner(System.in);
+            float a1 = 0.0f;
+
+    System.out.println("Informe um número: ");
+               a1 = console.nextFloat();
+            System.out.println("O número informado foi: " + a1);
+    
+    
+    
+  }
+}
